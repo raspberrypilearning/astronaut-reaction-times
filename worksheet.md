@@ -1,7 +1,7 @@
 Things happen quickly when you’re travelling at 16,000 miles per hour (around
 7,000 metres per second), and when debris and [micrometeoroids](http://www.esa.int/Our_Activities/Space_Engineering_Technology/Space_Environment/Micro-meteoroid_introduction) are heading towards you at around 22,500 miles per hour. Quick reactions and a steady
-hand are also needed for fine-motor tasks, such as controlling robotic arms.
-Astronauts are trained intensively to speed-up their reactions to incidents, and
+hand are also needed for tasks requiring fine motor skills, such as controlling robotic arms.
+Astronauts are trained intensively to speed up their reactions to incidents, and
 to prepare them for all eventualities. 
 
 [NASA scientists have conducted experiments to test astronaut reaction times.](http://www.nasa.gov/mission_pages/station/research/experiments/7.html)
