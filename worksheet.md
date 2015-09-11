@@ -30,15 +30,15 @@ Let's create a game in Scratch to test your reaction skills and those of your fr
 
 ## Create variables to store data
 
-1. To create a variable, click on `Variables` in the `Blocks palette` and then click `Make a Variable`. The New Variable window opens and asks you to type a name for your variable.
+1. To create a variable, click on `Variables` in the blocks palette and then click `Make a Variable`. The New Variable window opens and asks you to type a name for your variable.
 1. Name the first variable `time` and ensure that `For all sprites` is checked before clicking **OK**.
 	A variable holds a value that can be changed. The time variable you have created is an example of a value that can be changed and used inside different scripts. You will use it to store the reaction times of players. 
 1. You’ll see some orange blocks added to your `Variables` area called `time`, and a small counter box will appear on the stage.
 
 ## Begin the reaction game script
 
-1. Click on your Sprite to select it in the `Sprites Palette`. 
-1. Select the `When green flag is clicked` control block from the `Blocks palette` and place it onto the `Scripts Area`. 
+1. Click on your Sprite to select it in the sprites palette. 
+1. Select the `When green flag is clicked` control block from the blocks palette and place it onto the scripts area. 
 1. Then click on `Looks` and connect the `say for 2 secs` block to the first control block on the scripts area. Amend the text to say `Hello! British ESA Astronaut Tim Peake here. Are you ready?`
 1. Add a `wait 1 secs` block underneath.
 1. Connect another `say` block and change the text to `Hit Space!`.
