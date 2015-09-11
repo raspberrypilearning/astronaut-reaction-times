@@ -26,7 +26,7 @@ Let's create a game in Scratch to test your reaction skills and those of your fr
 
 	![import new sprite](images/import-sprite-icon.png)
 	
-1. Save your Scratch project work by clicking on **File** and **Save As**. Name your progam `Astronaut Reaction Game` and save it in your home directory or some place that you can find it later.
+1. Save your Scratch project work by clicking on **File** and **Save As**. Name your progam **Astronaut Reaction Game** and save it in your home directory or some place that you can find it later.
 
 ## Create variables to store data
 
@@ -58,9 +58,9 @@ Let's create a game in Scratch to test your reaction skills and those of your fr
 
 ## Comparing players reaction time to the ISS orbit
 
-If you are happy with your reaction game and have tested it works, then you can move onto adding to the script to compare the players' reaction time to how fast the ISS is travelling to calculate how far it would travel in that time.
+If you are happy with your reaction game and have tested that it works, then you can move onto adding to the script to compare the players' reaction time to how fast the ISS is travelling to calculate how far it would travel in that time.
 
-1. First you will need to make a new viarble called `distance` in the same way you did earlier.
+1. First you will need to make a new variable called `distance` in the same way you did earlier.
 1. Attach a `set distance to` variable block to your script. Place an `operators` multiply block `0*0` inside where it reads `0`. 
 	To calculate the diatnce travelled by the ISS you need to take the players reaction time which is stored in the time variable and multiply it by 7. This is because on average the ISS travels 7 kilometres per second! 
 1. Add the `time` variable block into the right hand side of the multiplying operator and type `7` in the other side so that the whole block reads `set distance to time * 7`.
@@ -69,13 +69,13 @@ If you are happy with your reaction game and have tested it works, then you can 
 
 	![ISS travels Script](images/script2.png) 	
 	
-1. Save your games and test that it works by clicking on the green flag. 	
+1. Save your game and test that it works by clicking on the green flag. 	
 	
 	![ISS travels Output](images/output2.png)
 	
 ## What next?
 
-- You could make the game more interactive by getting the players name before they start and storing that information in a new `name` variable. Then you would be able to personalise the `say` blocks to include the players name.
+- You could make the game more interactive by getting the Tim Peake sprite to ask for the player's name before they start and storing that information in a new `name` variable. Then you would be able to personalise the `say` blocks to include the players name.
 - Using some of the other images, could you change the background and sprites to make the game more interesting?
 - If you have a [Sense HAT](https://www.raspberrypi.org/products/sense-hat/), could you use it to trigger the timer instead of pressing the space bar?
 
