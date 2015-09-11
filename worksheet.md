@@ -17,11 +17,11 @@ Let's create a game in Scratch to test your reaction skills and those of your fr
 
 ## Set the stage with a space theme
 
-1. To begin,open a new file by selecting **File** and **New**.
+1. To begin, open a new file by selecting **File** and **New**.
 1. Delete the Scratch Cat sprite by right clicking on it and selecting **Delete** from the menu that is displayed.
 1. For this project, you need a space themed background and an Astronaut sprite. To add a background in Scratch click on `stage` in the sprites palette and then click on `Backgrounds` next to the `scripts` tab.
 1. Click on `Paint` to draw your own background or `import` to use the same images as this resource. 
-	Connect your Raspberry Pi to the internet, and download this [Space background](files/Space-background.png) and British EAS Astronaut [Tim Peake sprite](files/Astronaut-Tim.png). Save them somewhere that you will be able to find them on your Raspberry Pi.  You can also find more images to use [here](files/) if you do not like those.
+	Connect your Raspberry Pi to the internet, and download this [Space background](files/Space-background.png) and British EAS astronaut [Tim Peake sprite](files/Astronaut-Tim.png). Save them somewhere that you will be able to find them on your Raspberry Pi.  You can also find more images to use [here](files/) if you do not like those.
 1. Next add a new sprite by clicking on the `import a new sprite` icon on the sprites palette that looks like below and select `Astronaut-Tim` from the choices and click **Ok**.
 
 	![import new sprite](images/import-sprite-icon.png)
