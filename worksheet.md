@@ -6,7 +6,7 @@ to prepare them for all eventualities.
 
 [NASA scientists have conducted experiments to test astronaut reaction times.](http://www.nasa.gov/mission_pages/station/research/experiments/7.html)
 Astronauts were first tested using a computer system on the ground, then
-again when they were on-board the ISS, and once more when they returned. It
+again when they were on board the ISS, and once more when they returned. It
 was found their reaction times more than doubled in space. Scientists suggest
 that stress, as well as the brain having to adapt to microgravity, could be the
 cause, and that normal performance was found soon after returning to Earth. 
