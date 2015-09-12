@@ -13,7 +13,7 @@ cause of this, and that normal performance was found soon after returning to Ear
 
 You can learn more about what it is like to be an astronaut and more about Tim Peake's mission on [the UK National STEM Centre website here](http://www.nationalstemcentre.org.uk/timpeake).
 
-Let's create a game in Scratch to test your reaction skills and those of your friends and family to see if you could become an astronaut like British ESA Astronaut Tim Peake.
+Let's create a game in Scratch to test your reaction skills, and those of your friends and family, to see if you could become an astronaut like Tim Peake.
 
 ## Set the stage with a space theme
 
