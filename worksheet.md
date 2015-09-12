@@ -11,7 +11,7 @@ was found their reaction times more than doubled in space. Scientists suggest
 that stress, as well as the brain having to adapt to microgravity, could be the
 cause of this, and that normal performance was found soon after returning to Earth. 
 
-You can learn more about what it is like to be an Astronaut and more about Tim Peake's mission on [the UK National STEM Centre website here](http://www.nationalstemcentre.org.uk/timpeake).
+You can learn more about what it is like to be an astronaut and more about Tim Peake's mission on [the UK National STEM Centre website here](http://www.nationalstemcentre.org.uk/timpeake).
 
 Let's create a game in Scratch to test your reaction skills and those of your friends and family to see if you could become an astronaut like British ESA Astronaut Tim Peake.
 
