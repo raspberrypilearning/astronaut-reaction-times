@@ -6,6 +6,10 @@ For the first time ever, a British astronaut from the European Space Agency is g
 
 You can learn more about what it is like to be an astronaut and more about Tim Peake's mission on [the UK National STEM Centre website here](http://www.nationalstemcentre.org.uk/timpeake).
 
+## The worksheet
+
+- Go to the [worksheet](worksheet.md)
+
 ## Community
 Resource developed based on work by [ESERO-UK](http://www.esero.org.uk/) and [The National STEM Centre](http://www.nationalstemcentre.org.uk/) as part of the Astro Pi project. 
 
