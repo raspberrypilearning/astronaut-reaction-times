@@ -19,7 +19,7 @@ Let's create a game in Scratch to test your reaction skills, and those of your f
 
 ## Set the stage with a space theme
 
-1. To begin, open Scratch by clicking on **Menu** and **Programming**, followed by **Scratch**.
+1. If you are using a Raspberry Pi you can open Scratch by clicking on **Menu** and **Programming**, followed by **Scratch**. Alternatively you can use Scratch 2.0 online for this activity altho some of the blocks may be slightly different. 
 1. Create a new file by selecting **File** and **New**.
 1. Delete the Scratch Cat sprite by right clicking on it and selecting **Delete** from the menu that is displayed.
 1. For this project, you need a space themed background and an Astronaut sprite. To add a background in Scratch click on `stage` in the sprites palette and then click on `Backgrounds` next to the `scripts` tab.
