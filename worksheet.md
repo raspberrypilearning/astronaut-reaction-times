@@ -1,4 +1,4 @@
-# Astronaut Reaction Time Game
+# Astronaut Reaction Times Game
 
 Things happen quickly when you’re travelling at 16,000 miles per hour (around
 7,000 metres per second), and when debris and [micrometeoroids](http://www.esa.int/Our_Activities/Space_Engineering_Technology/Space_Environment/Micro-meteoroid_introduction) are heading towards you at around 22,500 miles per hour. Quick reactions and a steady
@@ -13,19 +13,19 @@ was found their reaction times more than doubled in space. Scientists suggest
 that stress, as well as the brain having to adapt to microgravity, could be the
 cause of this, and that normal performance was found soon after returning to Earth. 
 
-You can learn more about what it is like to be an astronaut and more about Tim Peake's mission on [the UK National STEM Centre website here](http://www.nationalstemcentre.org.uk/timpeake).
+You can learn more about what it is like to be an astronaut, and more about Tim Peake's mission, on [the UK National STEM Centre website here](http://www.nationalstemcentre.org.uk/timpeake).
 
 Let's create a game in Scratch to test your reaction skills, and those of your friends and family, to see if you could become an astronaut like Tim Peake.
 
 ## Set the stage with a space theme
 
-1. If you are using a Raspberry Pi you can open Scratch by clicking on **Menu** and **Programming**, followed by **Scratch**. Alternatively you can use Scratch 2.0 online for this activity altho some of the blocks may be slightly different. 
+1. If you are using a Raspberry Pi you can open Scratch by clicking on **Menu** and **Programming**, followed by **Scratch**. Alternatively, you can use Scratch 2.0 online for this activity although some of the blocks may be slightly different. 
 1. Create a new file by selecting **File** and **New**.
-1. Delete the Scratch Cat sprite by right clicking on it and selecting **Delete** from the menu that is displayed.
-1. For this project, you need a space themed background and an Astronaut sprite. To add a background in Scratch click on `stage` in the sprites palette and then click on `Backgrounds` next to the `scripts` tab.
+1. Delete the Scratch Cat sprite by right-clicking on it and selecting **Delete** from the menu that is displayed.
+1. For this project, you need a space-themed background and an Astronaut sprite. To add a background in Scratch, click on `stage` in the sprites palette and then click on `Backgrounds` next to the `scripts` tab.
 1. Click on `Paint` to draw your own background or `import` to use the same images as this resource. 
-	Connect your Raspberry Pi to the internet, and download this [Space background](files/Space-background.png) and British EAS astronaut [Tim Peake sprite](files/Astronaut-Tim.png). Save them somewhere that you will be able to find them on your Raspberry Pi.  You can also find more images to use [here](files/) if you do not like those.
-1. Next add a new sprite by clicking on the `import a new sprite` icon on the sprites palette (which looks like the image below) and select `Astronaut-Tim` from the choices and click **Ok**.
+	Connect your Raspberry Pi to the internet, and download this [Space background](files/Space-background.png) and British ESA astronaut [Tim Peake sprite](files/Astronaut-Tim.png). Save them somewhere that you will be able to find them on your Raspberry Pi. You can also find more images to use [here](files/) if you do not like those.
+1. Next, add a new sprite by clicking on the `import a new sprite` icon on the sprites palette (which looks like the image below), selecting `Astronaut-Tim` from the choices and clicking **OK**.
 
 	![import new sprite](images/import-sprite-icon.png)
 	
@@ -42,15 +42,15 @@ Let's create a game in Scratch to test your reaction skills, and those of your f
 
 1. Click on your Sprite to select it in the sprites palette. 
 1. Select the `When green flag is clicked` control block from the blocks palette and place it onto the scripts area. 
-1. Then click on `Looks` and connect the `say for 2 secs` block to the first control block on the scripts area. Amend the text to say `Hello! British ESA Astronaut Tim Peake here. Are you ready?`
+1. Then click on `Looks` and connect the `say for 2 secs` block to the first control block on the scripts area. Amend the text to say `Hello! British ESA Astronaut Tim Peake here. Are you ready?`.
 1. Add a `wait 1 secs` block underneath.
 1. Connect another `say` block and change the text to `Hit Space!`.
 1. Click on `Sensing` and connect the `reset timer` block.
 	This will set the timer to 0 so that you will get an accurate measurement of how long it takes for someone to hit the space bar. 
 1. Use the `control` block `wait until` and place a `key space pressed?` sensing block inside the white space of the wait until block. 
 	This will pause the program until the player presses the space bar. 
-1. Then connect another `say` block. Once the space bar has been pressed, you want to display the reaction to the player. To this, you need to place an `operators` block called `join hello world` inside the white space in the say block. Replace the word `world` with the word `seconds`. 
-1. You will then need to replace the word `Hello` with another `join hello world` operators block. Replacing `Hello` text with `Your reaction time was` and the `world` text with the `timer` sensing block. 	
+1. Then connect another `say` block. Once the space bar has been pressed, you want to display the reaction to the player. To do this, you need to place an `operators` block called `join hello world` inside the white space in the say block. Replace the word `world` with the word `seconds`. 
+1. You will then need to replace the word `Hello` with another `join hello world` operators block, replacing the `Hello` text with `Your reaction time was` and the `world` text with the `timer` sensing block. 	
 1.  Finally, select the `set time to` block from the variables section and add it to your script. Place the `timer` sensing block inside where it reads `0`.
 
 	![Reaction Script](images/script1.png)
@@ -59,16 +59,16 @@ Let's create a game in Scratch to test your reaction skills, and those of your f
 	
 	![Reaction Game Output](images/output1.png)
 
-## Comparing players reaction time to the ISS orbit
+## Comparing player's reaction time to the ISS orbit
 
-If you are happy with your reaction game and have tested that it works, then you can move onto adding to the script to compare the players' reaction time to how fast the ISS is travelling to calculate how far it would travel in that time.
+If you are happy with your reaction game and have tested that it works, then you can move onto adding to the script to compare the player's reaction time to how fast the ISS is travelling, to calculate how far it would travel in that time.
 
 1. First you will need to make a new variable called `distance` in the same way you did earlier.
 1. Attach a `set distance to` variable block to your script. Place an `operators` multiply block `0*0` inside where it reads `0`. 
-	To calculate the diatnce travelled by the ISS you need to take the players reaction time which is stored in the time variable and multiply it by 7. This is because on average the ISS travels 7 kilometres per second! 
-1. Add the `time` variable block into the right hand side of the multiplying operator and type `7` in the other side so that the whole block reads `set distance to time * 7`.
-1. Next add a `wait 4 seconds` control block.
-1. Then add a `say` block. As in the previous step, place a `join hello world` block inside. Replace "World" with `kilometers`. Insert another `join Hello World` block to replace "Hello". Replace the "Hello" text in this new Join block with the text `In that time the ISS travels around`. Then replace "World" with a `round ` operator block and fill the white space with the `distance` variable block like this:
+	To calculate the distance travelled by the ISS you need to take the player's reaction time, which is stored in the time variable, and multiply it by 7. This is because on average the ISS travels 7 kilometres per second! 
+1. Add the `time` variable block into the right hand side of the multiplying operator and type `7` in the other side, so that the whole block reads `set distance to time * 7`.
+1. Next, add a `wait 4 seconds` control block.
+1. Then add a `say` block. As in the previous step, place a `join hello world` block inside. Replace `World` with `kilometres`. Insert another `join Hello World` block to replace `Hello`. Replace the `Hello` text in this new Join block with the text `In that time the ISS travels around`. Then replace `World` with a `round` operator block and fill the white space with the `distance` variable block like this:
 
 	![ISS travels Script](images/script2.png) 	
 	
@@ -78,7 +78,7 @@ If you are happy with your reaction game and have tested that it works, then you
 	
 ## What next?
 
-- You could make the game more interactive by getting the Tim Peake sprite to ask for the player's name before they start and storing that information in a new `name` variable. Then you would be able to personalise the `say` blocks to include the players name.
+- You could make the game more interactive by getting the Tim Peake sprite to ask for the player's name before they start and storing that information in a new `name` variable. Then you would be able to personalise the `say` blocks to include the player's name.
 - Using some of the other images, could you change the background and sprites to make the game more interesting?
 - If you have a [Sense HAT](https://www.raspberrypi.org/products/sense-hat/), could you use it to trigger the timer instead of pressing the space bar?
 
