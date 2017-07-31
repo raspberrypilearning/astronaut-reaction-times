@@ -1,0 +1,25 @@
+---
+title: Astronaut Reaction Time Game
+hero_image: images/banner.png
+description: Do you have the speedy reactions needed to be an Astronaut? Create this
+  game to find out!
+original_url: https://raspberrypi.org/learning/astronaut-reaction-times
+theme: red
+duration: 2
+listed: false
+ingredient: false
+copyedit: true
+curriculum: creator, design-0, programming-0, phys-comp-0, manufacture-0, community-0
+interests: ''
+technologies: rpi, physical computing, python
+site_areas: ''
+steps:
+- title: Introduction
+- title: What you will need
+- title: Astronaut Reaction Times Game
+- title: Set the stage with a space theme
+- title: Create variables to store data
+- title: Begin the reaction game script
+- title: "Comparing player's reaction time to the ISS orbit"
+- title: What next?
+
