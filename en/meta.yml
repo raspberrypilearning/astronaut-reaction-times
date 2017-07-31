@@ -20,6 +20,6 @@ steps:
 - title: Set the stage with a space theme
 - title: Create variables to store data
 - title: Begin the reaction game script
-- title: Comparing player's reaction time to the ISS orbit
+- title: "Comparing player's reaction time to the ISS orbit"
 - title: What next?
 
