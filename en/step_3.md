@@ -6,6 +6,7 @@ You can start the game by having the Astronaut give and introduction and some ba
 Click on the Astronaut sprite and then add a `when flag clicked`{:class="block3events"} and a `say Hello! for 2 seconds`{:class="block3looks"}
 
 ![astronaut sprite](images/astro-sprite.png)
+
 ```blocks3
 when flag clicked
 say (Hello!) for (2) seconds
@@ -14,7 +15,9 @@ say (Hello!) for (2) seconds
 
 --- task ---
 Now change the "Hello!" text to a different greeting. You can use the one below or make something up yourself.
+
 ![astronaut sprite](images/astro-sprite.png)
+
 ```blocks3
 when flag clicked
 say [Hello, British ESA Astronaut Tim Peake here. Let's test your reaction times?] for (2) seconds
@@ -25,6 +28,7 @@ say [Hello, British ESA Astronaut Tim Peake here. Let's test your reaction times
 Now add a `wait 1 seconds`{:class="block3control"} block and then give the player some instructions for what they need to do.
 
 ![astronaut sprite](images/astro-sprite.png)
+
 ```blocks3
 when flag clicked
 say [Hello, British ESA Astronaut Tim Peake here. Let's test your reaction times?] for (2) seconds
