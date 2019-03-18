@@ -1,5 +1,20 @@
 ## Getting started
 
+--- task ---
+Open the Scratch starter project.
+
+**Online**: open the starter project at [rpf.io/astronaut-reacion-times](http://rpf.io/astronaut-reacion-timeson){:target="_blank"}.
+
+**Offline**: open the [starter project](http://rpf.io/p/astronaut-reacion-times-go){:target="_blank"} in the offline editor.
+
+If you need to download and install the Scratch offline editor, you can find it at [rpf.io/scratchoff](http://rpf.io/scratchoff){:target="_blank"}.
+
+In the starter project, you should see a space backdrop and an astronaut sprite
+
+![starter projects](images/starter_project.png)
+
+--- /task ---
+
 Things happen quickly when you’re travelling at 7.66 kilometers per second, and with [space debris](https://en.wikipedia.org/wiki/Space_debris) to avoid quick reaction times are essential.
 
 <html>
@@ -20,17 +35,4 @@ cause of this, and that normal performance was found soon after returning to Ear
 
 Let's create a game in Scratch to test your reaction skills, and those of your friends and family, to see if you could become an astronaut like Tim Peake.
 
---- task ---
-Open the Scratch starter project.
 
-**Online**: open the starter project at [rpf.io/astronaut-reacion-times](http://rpf.io/astronaut-reacion-timeson){:target="_blank"}.
-
-**Offline**: open the [starter project](http://rpf.io/p/astronaut-reacion-times-go){:target="_blank"} in the offline editor.
-
-If you need to download and install the Scratch offline editor, you can find it at [rpf.io/scratchoff](http://rpf.io/scratchoff){:target="_blank"}.
-
-In the starter project, you should see a space backdrop and an astronaut sprite
-
-![starter projects](images/starter_project.png)
-
---- /task ---
