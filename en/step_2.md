@@ -2,7 +2,9 @@
 
 Things happen quickly when you’re travelling at 7.66 kilometers per second, and with [space debris](https://en.wikipedia.org/wiki/Space_debris) to avoid quick reaction times are essential.
 
+<html>
 <a title="NASA image [Public domain], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Debris-GEO1280.jpg"><img width="512" alt="Debris-GEO1280" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Debris-GEO1280.jpg/512px-Debris-GEO1280.jpg"></a>
+</html>
 
 Quick reactions and a steady
 hand are also needed for tasks requiring fine motor skills, such as controlling robotic arms.
