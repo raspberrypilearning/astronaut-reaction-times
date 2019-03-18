@@ -1,19 +1,14 @@
-## Astronaut Reaction Times Game
+## Set the stage with a space theme
 
-Things happen quickly when you’re travelling at 16,000 miles per hour (around
-7,000 metres per second), and when debris and [micrometeoroids](http://www.esa.int/Our_Activities/Space_Engineering_Technology/Space_Environment/Micro-meteoroid_introduction) are heading towards you at around 22,500 miles per hour. Quick reactions and a steady
-hand are also needed for tasks requiring fine motor skills, such as controlling robotic arms.
-Astronauts are trained intensively to speed up their reactions to incidents, and
-to prepare them for all eventualities. 
+- If you are using a Raspberry Pi you can open Scratch by clicking on **Menu** and **Programming**, followed by **Scratch**. Alternatively, you can use Scratch 2.0 online for this activity although some of the blocks may be slightly different. 
+- Create a new file by selecting **File** and **New**.
+- Delete the Scratch Cat sprite by right-clicking on it and selecting **Delete** from the menu that is displayed.
+- For this project, you need a space-themed background and an Astronaut sprite. To add a background in Scratch, click on `stage` in the sprites palette and then click on `Backgrounds` next to the `scripts` tab.
+- Click on `Paint` to draw your own background or `import` to use the same images as this resource. 
+	Connect your Raspberry Pi to the internet, and download this [Space background](resources/Space-background.png) and British ESA astronaut [Tim Peake sprite](resources/Astronaut-Tim.png). Save them somewhere that you will be able to find them on your Raspberry Pi. You can also find more images to use [here](https://github.com/raspberrypilearning/astronaut-reaction-times/tree/master/en/resources) if you do not like those.
+- Next, add a new sprite by clicking on the `import a new sprite` icon on the sprites palette (which looks like the image below), selecting `Astronaut-Tim` from the choices and clicking **OK**.
 
-[NASA scientists have conducted experiments to test astronaut reaction times.](http://www.nasa.gov/mission_pages/station/research/experiments/7.html)
-Astronauts were first tested using a computer system on the ground, then
-again when they were on board the ISS, and once more when they returned. It
-was found their reaction times more than doubled in space. Scientists suggest
-that stress, as well as the brain having to adapt to microgravity, could be the
-cause of this, and that normal performance was found soon after returning to Earth. 
-
-You can learn more about what it is like to be an astronaut, and more about Tim Peake's mission, on [the UK National STEM Centre website here](http://www.nationalstemcentre.org.uk/timpeake).
-
-Let's create a game in Scratch to test your reaction skills, and those of your friends and family, to see if you could become an astronaut like Tim Peake.
+	![import new sprite](images/import-sprite-icon.png)
+	
+- Save your Scratch project work by clicking on **File** and **Save As**. Name your progam **Astronaut Reaction Game** and save it in your home directory or some place that you can find it later.
 
