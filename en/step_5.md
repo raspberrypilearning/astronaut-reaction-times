@@ -1,17 +1,65 @@
-## Comparing player's reaction time to the ISS orbit
+## Calculating reaction times
 
-If you are happy with your reaction game and have tested that it works, then you can move onto adding to the script to compare the player's reaction time to how fast the ISS is travelling, to calculate how far it would travel in that time.
+To calculate the reaction time of the player, you can use Scratch's inbuilt timer.
 
-- First you will need to make a new variable called `distance` in the same way you did earlier.
-- Attach a `set distance to` variable block to your script. Place an `operators` multiply block `0*0` inside where it reads `0`. 
-	To calculate the distance travelled by the ISS you need to take the player's reaction time, which is stored in the time variable, and multiply it by 7. This is because on average the ISS travels 7 kilometres per second! 
-- Add the `time` variable block into the right hand side of the multiplying operator and type `7` in the other side, so that the whole block reads `set distance to time * 7`.
-- Next, add a `wait 4 seconds` control block.
-- Then add a `say` block. As in the previous step, place a `join hello world` block inside. Replace `World` with `kilometres`. Insert another `join Hello World` block to replace `Hello`. Replace the `Hello` text in this new Join block with the text `In that time the ISS travels around`. Then replace `World` with a `round` operator block and fill the white space with the `distance` variable block like this:
+--- task ---
+Add a `reset timer`{:class="block3sensing"} to your script
 
-	![ISS travels Script](images/script2.png) 	
-	
-- Save your game and test that it works by clicking on the green flag. 	
-	
-	![ISS travels Output](images/output2.png)
-	
+```blocks3
+when flag clicked
+say [Hello, British ESA Astronaut Tim Peake here. Let's test your reaction times?] for (2) seconds
+wait (1) seconds
+say [Press the Space key when I say "GO!"]
+wait (pick random (1) to (10)) seconds
+say [GO!]
++ reset timer
+```
+--- /task ---
+
+The timer will now start counting, starting from zero seconds.
+The timer needs to stop when the player presses the spacebar.
+
+--- task ---
+Use a `wait until`{:class="block3control"} and a `key space pressed?`{:class="block3sensing"} block to start the next part of the program.
+
+```blocks3
+when flag clicked
+say [Hello, British ESA Astronaut Tim Peake here. Let's test your reaction times?] for (2) seconds
+wait (1) seconds
+say [Press the Space key when I say "GO!"]
+wait (pick random (1) to (10)) seconds
+say [GO!]
+reset timer
++ wait until <key [space v] pressed?>
+```
+--- /task ---
+
+--- task ---
+Then you can tell the player how long it took them to press the timer. Use `join`{:class="block3operators"} blocks report the number or seconds it took them.
+
+--- hints --- --- hint ---
+You want the astronaut to say something like "Your reaction time was 4 seconds".
+YOu will need to use a `say`{:class="block3looks"} block, two `join`{:class="block3operators"} blocks and the `timer`{:class="block3sensing"} block
+--- /hint --- --- hint ---
+Here are all the block you need
+
+```blocks
+say []
+join () ()
+join () ()
+timer
+--- /hint --- --- hint ---
+Here's what your script shoudl look like
+
+```blocks3
+when flag clicked
+say [Hello, British ESA Astronaut Tim Peake here. Let's test your reaction times?] for (2) seconds
+wait (1) seconds
+say [Press the Space key when I say "GO!"]
+wait (pick random (1) to (10)) seconds
+say [GO!]
+reset timer
++ say (join [Your reaction time was ] (join (timer) [seconds]))
+```
+--- /hint --- --- /hints ---
+--- /task ---
