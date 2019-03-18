@@ -43,6 +43,7 @@ The starter project can be found [here](http://rpf.io/p/en/astronaut-reaction-ti
 --- collapse ---
 ---
 title: What you will learn
+---
 - Know how to use join operators in Scratch to concatonate strings
 - Know how to use the random operator to choose tandom times in Scratch
 - Know how to use the multiplier operator in Scratch
