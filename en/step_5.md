@@ -5,6 +5,8 @@ To calculate the reaction time of the player, you can use Scratch's inbuilt time
 --- task ---
 Add a `reset timer`{:class="block3sensing"} to your script
 
+![astronaut sprite](images/astro-sprite.png)
+
 ```blocks3
 when flag clicked
 say [Hello, British ESA Astronaut Tim Peake here. Let's test your reaction times?] for (2) seconds
@@ -21,6 +23,8 @@ The timer needs to stop when the player presses the spacebar.
 
 --- task ---
 Use a `wait until`{:class="block3control"} and a `key space pressed?`{:class="block3sensing"} block to start the next part of the program.
+
+![astronaut sprite](images/astro-sprite.png)
 
 ```blocks3
 when flag clicked
@@ -48,8 +52,11 @@ say []
 join () ()
 join () ()
 timer
+```
 --- /hint --- --- hint ---
-Here's what your script shoudl look like
+Here's what your script should look like
+
+![astronaut sprite](images/astro-sprite.png)
 
 ```blocks3
 when flag clicked

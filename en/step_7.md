@@ -5,7 +5,10 @@ Now all you need to do is have the astronaut sprite tell the player how far they
 To make your calculation a little more easy to read you can use a `round`{:class="block3operators"} block. This will round the number up or down so that it is a whole number.
 
 --- task ---
-Use `say`{:class="block3looks"}, `join`{:class="block3operators"}, and `join`{:class="block3operators"} blocks to tell the player the value of the `kilometers`{:class="block3data"} variable.
+Use `say`{:class="block3looks"}, `join`{:class="block3operators"}, and `join`{:class="block3operators"} blocks to tell the player the value of the `kilometers`{:class="block3variables"} variable.
+
+![astronaut sprite](images/astro-sprite.png)
+
 ```blocks3
 when flag clicked
 say [Hello, British ESA Astronaut Tim Peake here. Let's test your reaction times?] for (2) seconds

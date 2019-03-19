@@ -7,6 +7,7 @@ Create a new variable called `kilometers`{:class="block3data"}
 --- /task ---
 
 The ISS travels at about 7.66 kilometers a second.
+
 --- task ---
 Add blocks to your code so that the `kilometers`{:class="block3data"} variable is set to the distance the ISS would have traveled
 
@@ -21,8 +22,11 @@ set [kilometersv] to ()
 timer
 
 () * ()
+```
 --- /hint --- --- hint ---
 Here's what your completed script should look like
+
+![astronaut sprite](images/astro-sprite.png)
 
 ```blocks3
 when flag clicked

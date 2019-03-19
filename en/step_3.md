@@ -35,7 +35,7 @@ say [Hello, British ESA Astronaut Tim Peake here. Let's test your reaction times
 + wait (1) seconds
 + say [Press the Space key when I say "GO!"]
 ```
---- /task --
+--- /task ---
 
 --- task ---
 Click the green flag to test your game and make sure it all works

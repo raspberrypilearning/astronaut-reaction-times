@@ -19,6 +19,7 @@ wait (1) seconds
 ```
 --- /hint --- --- hint ---
 Here's the two blocks added into the program
+![astronaut sprite](images/astro-sprite.png)
 ```blocks3
 when flag clicked
 say [Hello, British ESA Astronaut Tim Peake here. Let's test your reaction times?] for (2) seconds
