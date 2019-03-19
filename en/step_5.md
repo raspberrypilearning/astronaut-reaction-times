@@ -47,7 +47,7 @@ You will need to use a `say`{:class="block3looks"} block, two `join`{:class="blo
 --- /hint --- --- hint ---
 Here are all the block you need
 
-```blocks
+```blocks3
 say []
 join () ()
 join () ()

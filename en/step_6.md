@@ -3,13 +3,13 @@
 Now that the program knows the player's reaction time, you can use it to calculate how far the ISS would have traveled in that time.
 
 --- task ---
-Create a new variable called `kilometers`{:class="block3data"}
+Create a new variable called `kilometers`{:class="block3variables"}
 --- /task ---
 
 The ISS travels at about 7.66 kilometers a second.
 
 --- task ---
-Add blocks to your code so that the `kilometers`{:class="block3data"} variable is set to the distance the ISS would have traveled
+Add blocks to your code so that the `kilometers`{:class="block3variables"} variable is set to the distance the ISS would have traveled
 
 --- hints --- --- hint ---
 You can use a `*`{:class="block3operators"} block to work out the distance traveled and set this as the variable's value.
@@ -17,7 +17,7 @@ You can use a `*`{:class="block3operators"} block to work out the distance trave
 Here are the blocks you will need
 
 ```blocks3
-set [kilometersv] to ()
+set [kilometers v] to ()
 
 timer
 
