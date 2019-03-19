@@ -1,0 +1,9 @@
+## Challenge: Other space vehicles
+
+Can you alter your program to work out the distances traveled if the astronaut was traveling in a different vehicle?
+Below are a list of some other space vehicles and the speeds they travel. Be careful with your calculations, as they are all use different units of speed.
+
+
+Apollo 10 return to Earth - 11.094 kilometers per second
+Falcon 9 at separation - 150 kilometers per minuter
+Soyuz second stage - 13,500 kilometers per hour

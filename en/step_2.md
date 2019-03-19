@@ -15,7 +15,7 @@ In the starter project, you should see a space backdrop and an astronaut sprite
 
 --- /task ---
 
-Things happen quickly when you’re travelling at 7.66 kilometers per second, and with [space debris](https://en.wikipedia.org/wiki/Space_debris) to avoid quick reaction times are essential.
+Things happen quickly when you’re traveling at 7.66 kilometers per second, and with [space debris](https://en.wikipedia.org/wiki/Space_debris) to avoid quick reaction times are essential.
 
 <html>
 <a title="NASA image [Public domain], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Debris-GEO1280.jpg"><img width="512" alt="Debris-GEO1280" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Debris-GEO1280.jpg/512px-Debris-GEO1280.jpg"></a>
@@ -30,7 +30,7 @@ to prepare them for all eventualities.
 Astronauts were first tested using a computer system on the ground, then
 again when they were on board the ISS, and once more when they returned. It
 was found their reaction times more than doubled in space. Scientists suggest
-that stress, as well as the brain having to adapt to microgravity, could be the
+that stress, as well as the brain having to adapt to micro-gravity, could be the
 cause of this, and that normal performance was found soon after returning to Earth. 
 
 Let's create a game in Scratch to test your reaction skills, and those of your friends and family, to see if you could become an astronaut like Tim Peake.

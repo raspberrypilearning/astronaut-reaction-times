@@ -39,7 +39,7 @@ Then you can tell the player how long it took them to press the timer. Use `join
 
 --- hints --- --- hint ---
 You want the astronaut to say something like "Your reaction time was 4 seconds".
-YOu will need to use a `say`{:class="block3looks"} block, two `join`{:class="block3operators"} blocks and the `timer`{:class="block3sensing"} block
+You will need to use a `say`{:class="block3looks"} block, two `join`{:class="block3operators"} blocks and the `timer`{:class="block3sensing"} block
 --- /hint --- --- hint ---
 Here are all the block you need
 

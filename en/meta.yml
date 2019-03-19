@@ -18,7 +18,11 @@ last_tested: 2017-01-01
 steps: 
 - title: Introduction
 - title: Getting started
-- title: Create variables to store data
-- title: Begin the reaction game script
-- title: "Comparing player's reaction time to the ISS orbit"
+- title: Starting the test
+- title: Add a random pause
+- title: Calculating reaction times
+- title: Calculating distances
+- title: Finishing off
+- title: "Challenge: Other space vehicles"
+  challenge: true
 - title: What next?

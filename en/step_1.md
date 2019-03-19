@@ -1,5 +1,5 @@
 ## Introduction
-You are going to use Scatch to create a game that will test your reaction times and work out how far the International Space Station travels in the time it takes you to react.
+You are going to use Scratch to create a game that will test your reaction times and work out how far the International Space Station travels in the time it takes you to react.
 
 ### What you will make
 
@@ -14,7 +14,7 @@ Click on the green flag to start and press the spacebar when Tim shouts GO!
 --- /no-print ---
 
 --- print-only ---
-When the game start, Tim will shout GO! You need to press the spacebar as fast as you can to work out how far the ISS would have travelled in the time it took you to react.
+When the game start, Tim will shout GO! You need to press the spacebar as fast as you can to work out how far the ISS would have traveled in the time it took you to react.
 
 ![full game](images/full-game.png]
 
@@ -44,8 +44,8 @@ The starter project can be found [here](http://rpf.io/p/en/astronaut-reaction-ti
 ---
 title: What you will learn
 ---
-- Recall how to use join operators in Scratch to concatonate strings
-- Recall how to use the random operator to choose tandom times in Scratch
+- Recall how to use join operators in Scratch to concatenate strings
+- Recall how to use the random operator to choose random times in Scratch
 - Recall how to use the multiplier operator in Scratch
 ---
 --- /collapse ---
