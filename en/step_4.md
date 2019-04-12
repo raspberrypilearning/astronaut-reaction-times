@@ -3,7 +3,7 @@
 The game should not start straight away, and the start of the game should not be predictable.
 
 --- task ---
-Add some blocks to your program so that it waits for a random number of seconds before it starts to run, and then make the sprite say "GO!"
+Add some blocks to your program so that it waits for a random number of seconds before it starts to run, and then make the sprite say `GO!`.
 
 --- hints --- --- hint ---
 Add a `wait 1 seconds`{:class="block3control"} block and put a `pick random 1 to 10`{:class="block3operators"} block inside it.
