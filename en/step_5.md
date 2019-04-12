@@ -9,7 +9,7 @@ Add a `reset timer`{:class="block3sensing"} block to your script.
 
 ```blocks3
 when flag clicked
-say [Hello, British ESA Astronaut Tim Peake here. Let's test your reaction times?] for (2) seconds
+say [Hello, British ESA Astronaut Tim Peake here. Let's test your reaction times!] for (2) seconds
 wait (1) seconds
 say [Press the Space key when I say "GO!"]
 wait (pick random (1) to (10)) seconds
@@ -60,7 +60,7 @@ Here is what your script should look like:
 
 ```blocks3
 when flag clicked
-say [Hello, British ESA Astronaut Tim Peake here. Let's test your reaction times?] for (2) seconds
+say [Hello, British ESA Astronaut Tim Peake here. Let's test your reaction times!] for (2) seconds
 wait (1) seconds
 say [Press the Space key when I say "GO!"]
 wait (pick random (1) to (10)) seconds
