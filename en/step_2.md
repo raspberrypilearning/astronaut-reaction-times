@@ -3,9 +3,9 @@
 --- task ---
 Open the Scratch starter project.
 
-**Online**: open the starter project at [rpf.io/astronaut-reacion-times](http://rpf.io/astronaut-reacion-timeson){:target="_blank"}.
+**Online**: open the starter project at [rpf.io/astronaut-reacion-times](http://rpf.io/astronaut-reacion-timeson){:target="_blank"}
 
-**Offline**: download the [starter project](http://rpf.io/p/astronaut-reacion-times-go){:target="_blank"} and open it in the Scratch offline editor.
+**Offline**: download the [starter project](http://rpf.io/p/astronaut-reacion-times-go){:target="_blank"} and open it in the Scratch offline editor
 
 If you need to download and install the Scratch offline editor, download it from [rpf.io/scratchoff](http://rpf.io/scratchoff){:target="_blank"}.
 
@@ -15,7 +15,7 @@ In the starter project, you should see a space backdrop and an astronaut sprite.
 
 --- /task ---
 
-Things happen quickly when you’re travelling at 7.66 kilometers per second, and quick reaction times are essential when there is [space debris](https://en.wikipedia.org/wiki/Space_debris) to avoid.
+Things happen quickly when you’re travelling at 7.66 kilometres per second, and quick reaction times are essential when there is [space debris](https://en.wikipedia.org/wiki/Space_debris) to avoid.
 
 <html>
 <a title="NASA image [Public domain], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Debris-GEO1280.jpg"><img width="512" alt="Debris-GEO1280" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Debris-GEO1280.jpg/512px-Debris-GEO1280.jpg"></a>
