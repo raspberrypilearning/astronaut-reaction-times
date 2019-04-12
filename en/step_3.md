@@ -14,7 +14,7 @@ say (Hello!) for (2) seconds
 --- /task ---
 
 --- task ---
-Now, change the "Hello!" text to a different greeting. You can use the one below or make something up.
+Now, change the `Hello!` text to a different greeting. You can use the one below or make something up.
 
 ![astronaut sprite](images/astro-sprite.png)
 
@@ -25,13 +25,13 @@ say [Hello, British ESA Astronaut Tim Peake here. Let's test your reaction times
 --- /task ---
 
 --- task ---
-Add a `wait 1 seconds`{:class="block3control"} block and then use your code to tell the player what they need to do.
+Add a `wait 1 seconds`{:class="block3control"} block and then write some code to tell the player what they need to do.
 
 ![astronaut sprite](images/astro-sprite.png)
 
 ```blocks3
 when flag clicked
-say [Hello, British ESA Astronaut Tim Peake here. Let's test your reaction times?] for (2) seconds
+say [Hello, British ESA Astronaut Tim Peake here. Let's test your reaction times!] for (2) seconds
 + wait (1) seconds
 + say [Press the Space key when I say "GO!"]
 ```
