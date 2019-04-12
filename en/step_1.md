@@ -1,10 +1,10 @@
 ## Introduction
-You are going to use Scratch to create a game that will test your reaction times and work out how far the International Space Station travels in the time it takes you to react.
+In this project, you will use Scratch to create a game that will test your reaction times and work out how far the International Space Station travels in the time it takes you to react.
 
 ### What you will make
 
 --- no-print ---
-Click on the green flag to start and press the spacebar when Tim shouts GO!
+Click on the green flag to start the game. Press the spacebar when Tim shouts "GO!"
 
 <div class="scratch-preview">
   <iframe allowtransparency="true" width="485" height="402" src="//scratch.mit.edu/projects/embed/294791719/?autostart=false" frameborder="0" scrolling="no"></iframe>
@@ -14,13 +14,13 @@ Click on the green flag to start and press the spacebar when Tim shouts GO!
 --- /no-print ---
 
 --- print-only ---
-When the game start, Tim will shout GO! You need to press the spacebar as fast as you can to work out how far the ISS would have traveled in the time it took you to react.
+When the game starts, Tim will shout "GO!" Press the spacebar as fast as you can, and see how far the ISS would have traveled in the time it took you to react.
 
 ![full game](images/full-game.png]
 
 --- /print-only ---
 
-You can learn more about what it is like to be an astronaut and more about Tim Peake's mission on [the UK National STEM Centre website here](http://www.nationalstemcentre.org.uk/timpeake).
+You can learn more about Tim Peake's mission and what it is like to be an astronaut on the [UK National STEM Centre website](http://www.nationalstemcentre.org.uk/timpeake).
 
 --- collapse ---
 ---
@@ -29,7 +29,7 @@ title: What you will need
 
 ### Hardware
 
-+ A computer capable of running Scratch
++ A computer that can run Scratch
 
 ### Software
 
@@ -37,16 +37,16 @@ title: What you will need
 
 ### Downloads
 
-The starter project can be found [here](http://rpf.io/p/en/astronaut-reaction-times-go){:target="_blank"}.
+Find [the starter project here](http://rpf.io/p/en/astronaut-reaction-times-go){:target="_blank"}.
 --- /collapse ---
 
 --- collapse ---
 ---
 title: What you will learn
 ---
-- Recall how to use join operators in Scratch to concatenate strings
-- Recall how to use the random operator to choose random times in Scratch
-- Recall how to use the multiplier operator in Scratch
+- How to use join operators in Scratch to concatenate strings
+- How to use the random operator in Scratch to choose random times 
+- How to use the multiplier operator in Scratch
 ---
 --- /collapse ---
 
