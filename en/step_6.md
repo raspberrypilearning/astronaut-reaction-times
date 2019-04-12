@@ -12,7 +12,7 @@ The ISS travels at about 7.66 kilometres per second.
 Add blocks to your code so that the `kilometres`{:class="block3variables"} variable is set to the distance that the ISS would have travelled.
 
 --- hints --- --- hint ---
-You can use a `*`{:class="block3operators"} block to work out the distance travelled and set this as the variable's value.
+You can use a `*`{:class="block3operators"} multiplier block to work out the distance travelled and set this as the variable's value.
 --- /hint --- --- hint ---
 Here are the blocks that you will need:
 
