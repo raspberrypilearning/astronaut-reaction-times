@@ -1,9 +1,9 @@
-## Calculating reaction times
+## Work out reaction times
 
-To calculate the reaction time of the player, you can use Scratch's inbuilt timer.
+To calculate the player's reaction time, you can use Scratch's inbuilt timer.
 
 --- task ---
-Add a `reset timer`{:class="block3sensing"} to your script
+Add a `reset timer`{:class="block3sensing"} block to your script.
 
 ![astronaut sprite](images/astro-sprite.png)
 
@@ -18,11 +18,11 @@ say [GO!]
 ```
 --- /task ---
 
-The timer will now start counting, starting from zero seconds.
-The timer needs to stop when the player presses the spacebar.
+The timer will start counting from zero seconds.
+The timer needs to stop when the player presses the space bar.
 
 --- task ---
-Use a `wait until`{:class="block3control"} and a `key space pressed?`{:class="block3sensing"} block to start the next part of the program.
+Use a `wait until`{:class="block3control"} block and a `key space pressed?`{:class="block3sensing"} block to start the next part of the program.
 
 ![astronaut sprite](images/astro-sprite.png)
 
@@ -39,13 +39,13 @@ reset timer
 --- /task ---
 
 --- task ---
-Then you can tell the player how long it took them to press the timer. Use `join`{:class="block3operators"} blocks report the number or seconds it took them.
+Then, tell the player how long it took them to press the space bar. Use `join`{:class="block3operators"} blocks to report the number of seconds it took them.
 
 --- hints --- --- hint ---
-You want the astronaut to say something like "Your reaction time was 4 seconds".
-You will need to use a `say`{:class="block3looks"} block, two `join`{:class="block3operators"} blocks and the `timer`{:class="block3sensing"} block
+The astronaut should say something like "Your reaction time was 4 seconds".
+Use a `say`{:class="block3looks"} block, two `join`{:class="block3operators"} blocks, and the `timer`{:class="block3sensing"} block.
 --- /hint --- --- hint ---
-Here are all the block you need
+Here are all the blocks that you need:
 
 ```blocks3
 say []
@@ -54,7 +54,7 @@ join () ()
 timer
 ```
 --- /hint --- --- hint ---
-Here's what your script should look like
+Here is what your script should look like:
 
 ![astronaut sprite](images/astro-sprite.png)
 
