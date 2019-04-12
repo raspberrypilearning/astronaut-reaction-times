@@ -4,7 +4,7 @@ In this project, you will use Scratch to create a game that will test your react
 ### What you will make
 
 --- no-print ---
-Click on the green flag to start the game. Press the spacebar when Tim shouts "GO!"
+Click on the green flag to start the game. Press the space bar when Tim shouts "GO!"
 
 <div class="scratch-preview">
   <iframe allowtransparency="true" width="485" height="402" src="//scratch.mit.edu/projects/embed/294791719/?autostart=false" frameborder="0" scrolling="no"></iframe>
@@ -14,7 +14,7 @@ Click on the green flag to start the game. Press the spacebar when Tim shouts "G
 --- /no-print ---
 
 --- print-only ---
-When the game starts, Tim will shout "GO!" Press the spacebar as fast as you can, and see how far the ISS would have traveled in the time it took you to react.
+When the game starts, Tim will shout "GO!" Press the space bar as fast as you can, and see how far the ISS would have travelled in the time it took you to react.
 
 ![full game](images/full-game.png]
 
