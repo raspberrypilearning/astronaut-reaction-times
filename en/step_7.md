@@ -18,7 +18,7 @@ wait (pick random (1) to (10)) seconds
 say [GO!]
 reset timer
 say (join [Your reaction time was ] (join (timer) [seconds]))
-set [kilometers v] to ((timer) * (7.66))
+set [kilometres v] to ((timer) * (7.66))
 wait (2) seconds
 say (join (join [In that time, the ISS travels about] (round (kilometres)))[ kilometres]
 ```
