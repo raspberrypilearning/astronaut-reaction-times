@@ -22,7 +22,7 @@ Things happen quickly when you’re travelling at 7.66 kilometres per second, an
 </html>
 
 Astronauts also need quick reactions and a steady hand, so that they can do tasks such as controlling robotic arms.
-Astronauts are trained to speed up their reactions to incidents, and to prepare them for all eventualities. 
+Astronauts are trained to speed up their reactions to incidents, and to prepare them for all possible situations. 
 
 [NASA scientists have done experiments to test astronauts' reaction times.](http://www.nasa.gov/mission_pages/station/research/experiments/7.html)
 Astronauts' reaction times were tested on the ground, then when they were on-board the ISS, and then when they returned to Earth. The experiment found that the astronauts took more than twice as long to react when they were in space. Scientists suggested that this could be caused by stress, and the brain having to adapt to microgravity. They also suggested that the astronauts' reaction times went back to normal soon after returning to Earth. 
