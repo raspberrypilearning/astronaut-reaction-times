@@ -3,7 +3,7 @@
 --- task ---
 Open the Scratch starter project.
 
-**Online**: open the starter project at [rpf.io/astronaut-reacion-times](http://rpf.io/astronaut-reacion-timeson){:target="_blank"}
+**Online**: open the starter project at [rpf.io/astronaut-reaction-timeson](http://rpf.io/astronaut-reacion-timeson){:target="_blank"}
 
 **Offline**: download the [starter project](http://rpf.io/p/astronaut-reacion-times-go){:target="_blank"} and open it in the Scratch offline editor
 
