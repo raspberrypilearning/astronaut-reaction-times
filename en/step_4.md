@@ -11,8 +11,6 @@ Add a `wait 1 seconds`{:class="block3control"} block and put a `pick random 1 to
 Here are the two blocks you will need:
 
 ```blocks3
-say [Hello!]
-
 pick random (1) to (10)
 
 wait (1) seconds
