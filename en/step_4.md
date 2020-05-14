@@ -1,14 +1,32 @@
-## Set the stage with a space theme
+## Add a random pause
 
-- If you are using a Raspberry Pi you can open Scratch by clicking on **Menu** and **Programming**, followed by **Scratch**. Alternatively, you can use Scratch 2.0 online for this activity although some of the blocks may be slightly different. 
-- Create a new file by selecting **File** and **New**.
-- Delete the Scratch Cat sprite by right-clicking on it and selecting **Delete** from the menu that is displayed.
-- For this project, you need a space-themed background and an Astronaut sprite. To add a background in Scratch, click on `stage` in the sprites palette and then click on `Backgrounds` next to the `scripts` tab.
-- Click on `Paint` to draw your own background or `import` to use the same images as this resource. 
-	Connect your Raspberry Pi to the internet, and download this [Space background](resources/Space-background.png) and British ESA astronaut [Tim Peake sprite](resources/Astronaut-Tim.png). Save them somewhere that you will be able to find them on your Raspberry Pi. You can also find more images to use [here](https://github.com/raspberrypilearning/astronaut-reaction-times/tree/master/en/resources) if you do not like those.
-- Next, add a new sprite by clicking on the `import a new sprite` icon on the sprites palette (which looks like the image below), selecting `Astronaut-Tim` from the choices and clicking **OK**.
+The game should not start straight away, and the start of the game should not be predictable.
 
-	![import new sprite](images/import-sprite-icon.png)
-	
-- Save your Scratch project work by clicking on **File** and **Save As**. Name your progam **Astronaut Reaction Game** and save it in your home directory or some place that you can find it later.
+--- task ---
+Add some blocks to your program so that it waits for a random number of seconds before it starts to run, and then make the sprite say `GO!`.
+
+--- hints --- --- hint ---
+Add a `wait 1 seconds`{:class="block3control"} block and put a `pick random 1 to 10`{:class="block3operators"} block inside it.
+--- /hint --- --- hint ---
+Here are the two blocks you will need:
+
+```blocks3
+pick random (1) to (10)
+
+wait (1) seconds
+```
+--- /hint --- --- hint ---
+Here are the two blocks added into the program:
+![astronaut sprite](images/astro-sprite.png)
+```blocks3
+when flag clicked
+say [Hello, British ESA Astronaut Tim Peake here. Let's test your reaction times!] for (2) seconds
+wait (1) seconds
+say [Press the Space key when I say "GO!"]
++ wait (pick random (1) to (10)) seconds
++ say [GO!]
+```
+--- /hint --- --- /hints ---
+--- /task ---
+
 
