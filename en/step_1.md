@@ -16,7 +16,7 @@ Click on the green flag to start the game. Press the space bar when Tim shouts "
 --- print-only ---
 When the game starts, Tim will shout "GO!" Press the space bar as fast as you can, and see how far the ISS would have travelled in the time it took you to react.
 
-![full game](images/full-game.png]
+![full game](images/full-game.png)
 
 --- /print-only ---
 
