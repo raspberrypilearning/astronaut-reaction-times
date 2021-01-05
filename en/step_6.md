@@ -36,6 +36,7 @@ say [Press the Space key when I say "GO!"]
 wait (pick random (1) to (10)) seconds
 say [GO!]
 reset timer
+wait until <key [space v] pressed?>
 say (join [Your reaction time was ] (join (timer) [seconds]))
 + set [kilometres v] to ((timer) * (7.66))
 ```
