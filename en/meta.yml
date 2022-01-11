@@ -1,6 +1,8 @@
+---
 title: Astronaut Reaction Time Game
 hero_image: images/banner.png
-description: Do you have the fast reactions needed to be an astronaut? Create this game to find out!
+description: Do you have the fast reactions needed to be an astronaut? Create this
+  game to find out!
 original_url: https://raspberrypi.org/learning/astronaut-reaction-times
 theme: blue
 duration: 2
@@ -15,14 +17,16 @@ hardware: ''
 software: scratch
 version: 3
 last_tested: 2017-01-01
-steps: 
+steps:
 - title: Introduction
+  completion: engaged
 - title: Get started
 - title: Start the game
 - title: Add a random pause
 - title: Work out reaction times
 - title: Work out distances
+  completion: internal
 - title: Finish the game
-- title: "Challenge: Work out distances travelled in other space vehicles"
+- title: 'Challenge: Work out distances travelled in other space vehicles'
   challenge: true
 - title: What next?
