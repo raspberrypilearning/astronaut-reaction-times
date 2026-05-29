@@ -41,19 +41,7 @@ reset timer
 --- task ---
 Then, tell the player how long it took them to press the space bar. Use `join`{:class="block3operators"} blocks to report the number of seconds it took them.
 
---- hints --- --- hint ---
-The astronaut should say something like "Your reaction time was 4 seconds".
-Use a `say`{:class="block3looks"} block, two `join`{:class="block3operators"} blocks, and the `timer`{:class="block3sensing"} block.
---- /hint --- --- hint ---
-Here are all the blocks that you need:
-
-```blocks3
-say []
-join () ()
-join () ()
-timer
-```
---- /hint --- --- hint ---
+--- hint ---
 Here is what your script should look like:
 
 ![astronaut sprite](images/astro-sprite.png)
@@ -69,5 +57,6 @@ reset timer
 wait until <key [space v] pressed?>
 + say (join [Your reaction time was ] (join (timer) [seconds]))
 ```
---- /hint --- --- /hints ---
+--- /hint ---
+
 --- /task ---
