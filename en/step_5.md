@@ -41,6 +41,7 @@ reset timer
 --- task ---
 Then, tell the player how long it took them to press the space bar. Use `join`{:class="block3operators"} blocks to report the number of seconds it took them.
 
+--- hints ---
 --- hint ---
 Here is what your script should look like:
 
@@ -58,5 +59,6 @@ wait until <key [space v] pressed?>
 + say (join [Your reaction time was ] (join (timer) [seconds]))
 ```
 --- /hint ---
+--- /hints ---
 
 --- /task ---
